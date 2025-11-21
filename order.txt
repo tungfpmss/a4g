@@ -1,0 +1,9 @@
+STT	Món	Số lượng	Đơn giá	Thành tiền
+1	Trà mãng cầu giảm 50% đường	1	27	27
+2	Trà bí đao nhiều sương sáo ko hạt chia	2	20	40
+3	Bạc xỉu ít đá	1	30	30
+4	Rau má đậu xanh sữa dừa	1	27	27
+5	Cafe muối	1	33	33
+6	Matcha đậu đỏ	1	30	30
+7	Cam quế mật ong nóng	1	25	25
+Total		8	212	
