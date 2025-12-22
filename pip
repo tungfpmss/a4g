@@ -1,0 +1,24 @@
+3.Python31210_TF220_Torch291Cu126_YL11_Qt5 (phải cài đặt Cuda 12.6 và cudnn-windows-x86_64-9.12.0.46_cuda12-archive trước khi pip dòng dưới)
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+python -m pip install ultralytics
+python -m pip install tensorflow
+python -m pip install scikit-learn
+python -m pip install labelme labelimg pandas
+python -m pip install onnx tf2onnx
+python -m pip install PyQt5 PyQt5Designer
+
+4.Python31210_TF220_Torch291Cu126_YL12_Qt6 (phải cài đặt Cuda 12.6 và cudnn-windows-x86_64-9.12.0.46_cuda12-archive trước khi pip dòng dưới)
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+python -m pip install ultralytics
+python -m pip install tensorflow
+python -m pip install scikit-learn
+python -m pip install labelme labelimg pandas
+python -m pip install onnx tf2onnx
+python -m pip install PyQt6 PyQt6-Graphs PyQt6-Charts
+python -m pip install qt6-applications qt6-tools
+
+//for Yolo
+python -m pip uninstall polars
+python -m pip install polars-lts-cpu
